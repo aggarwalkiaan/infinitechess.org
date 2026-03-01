@@ -21,11 +21,3 @@ This project is open source! If you have skills in HTML, CSS, JavaScript, TypeSc
 
 ## Roadmap
 
-There are still MANY more items I have planned for this project. Just a few of them are:
-
-- Board Editor
-- Games with infinitely many pieces
-- 4 Player
-- Massive Multiplayer Online
-
-Because I want Infinite Chess to grow to as big of an audience as possible, it's licensed with a goal of keeping this game free forever! Check out [Copying](./docs/COPYING.md) for more details.
